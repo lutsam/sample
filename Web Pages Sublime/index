@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset ="UTF-8">
+  <title> Personal Portfolio</title>
+  <script src="https://kit.fontawesome.com/108266d321.js" crossorigin="anonymous"></script>
+  
+</head>
+
+<body>
+<h1>Welcome to the great stuff</h1>
+<i class="fas fa-angry"></i>
+<i class="fas fa-angry fa-xs"></i>
+<i class="fas fa-angry fa-md"></i>
+<i class="fas fa-angry fa-lg"></i>
+<i class="fas fa-angry fa-2x"></i>
+<i class="fas fa-angry fa-3x"></i>
+<i class="fas fa-angry fa-5x"></i>
+<i class="fas fa-angry fa-10x"></i>
+
+<p>You need to chill out</p>
+<p>Next time I will not accept lousy looks</p>
+  
+</body>
+  
+  </html>
